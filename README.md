@@ -8,3 +8,4 @@ Test repository
 2nd editing local
 5th modification from git    
 6th modifiy in git
+7th modification in git
